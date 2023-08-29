@@ -1,2 +1,2 @@
 # Java
-This is a collection of my Java practice problems
+My Java practice assignments are collected here
